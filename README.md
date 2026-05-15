@@ -42,5 +42,5 @@ I am a B.Tech Mechanical Engineering student at the Indian Institute of Technolo
 
 ## 📫 Let's Connect
 * **Email:** [samsamriddha2005@gmail.com](mailto:samsamriddha2005@gmail.com) 
-* **LinkedIn:** [Insert LinkedIn Link Here] 
-* **Portfolio/Drive:** [Insert Render/Portfolio Link Here] 
+* **LinkedIn:** [(https://www.linkedin.com/in/samriddha-sirsant-172808298/)] 
+* **Portfolio/Drive:** 
